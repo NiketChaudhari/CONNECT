@@ -1,1 +1,1 @@
-![My animated logo](./Logs/1.png)
+![My animated logo](../Logs/1.png)
